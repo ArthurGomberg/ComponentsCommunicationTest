@@ -1,0 +1,37 @@
+.container {
+    background: #f9f9f9;
+    width: 800px;
+    height: 200px;
+    padding: 10px;
+    margin: 200px auto;
+    box-sizing: border-box;
+    border: 3px solid red;
+}
+
+.list-container {
+    width: 300px;
+    height: 88px;
+    text-align: center;
+    margin: 50px auto;
+    padding: auto;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 17px;
+    font-weight: bold;
+    color: rgba(21, 45, 168, 0.9);
+    font-size: 30px;
+    margin-right: 5px;
+    border: 2px solid rgba(21, 45, 168, 0.575);
+    box-sizing: border-box;
+    float: left;
+}
